@@ -3,6 +3,7 @@ The event will follow the agenda below (in Central Europe Timezone):
 
 **February 8th**:
 - 2PM - 5PM : Interpretability workshop (1st session)
+  - 2PM - 2:40PM Interpretability in scikit-learn, current status, known issues and ongoing work (*Guillaume Lemaitre, scikit-learn Consortium*)
 
 **February 9th**:
 - 9.30AM - 12.30PM : Interpretability workshop (2nd session)

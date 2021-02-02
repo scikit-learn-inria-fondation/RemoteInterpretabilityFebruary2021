@@ -11,6 +11,8 @@ The event will follow the agenda below (in Central Europe Timezone):
 
 **February 9th**:
 - 9.30AM - 12.30PM : Interpretability workshop (2nd session)
+  - 9.30AM - 10.30AM TBD (*Xavier Renard, Thibault Laugiel, AXA*)
+  - ...
 - 2PM - 5PM : Development Sprint on Interpretability issues
 
 **February 10th**:

@@ -14,7 +14,7 @@ The event will follow the agenda below (in Central Europe Timezone):
   - 9.30AM - 10.30AM TBD (*Xavier Renard, Thibault Laugiel, AXA*)
   - 10.30AM - 11AM TBD (*Laurent Dupont, ACPR - Banque de France*)
   - 11AM - 11.15AM Break
-  - 11.15AM - 12.15PM TBD
+  - 11.15AM - 12.15PM TBD (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
   - 12.15PM Summary and Conclusions
   
 - 2PM - 5PM : Development Sprint on Interpretability issues

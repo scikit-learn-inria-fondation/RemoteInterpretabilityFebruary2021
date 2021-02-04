@@ -24,9 +24,9 @@ The event will follow the agenda below (in Central Europe Timezone):
   - 10.30AM - 11AM "Explainability of ML in the financial sector" (*Laurent Dupont, ACPR - Banque de France*)
 
     *Outline:*
-    *1. Use cases observed among financial actors*
-    *2. Current and future use cases for the supervision authority*
-    *3. Proposed development and governance principles for ML in finance*
+    - 1. *Use cases observed among financial actors*
+    - 2. *Current and future use cases for the supervision authority*
+    - 3. *Proposed development and governance principles for ML in finance*
   - 11AM - 11.15AM Break
   - 11.15AM - 12.15PM TBD (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
   - 12.15PM Summary and Conclusions

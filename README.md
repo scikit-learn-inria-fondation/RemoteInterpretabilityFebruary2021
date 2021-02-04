@@ -28,7 +28,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
     - 2. *Current and future use cases for the supervision authority*
     - 3. *Proposed development and governance principles for ML in finance*
   - 11AM - 11.15AM Break
-  - 11.15AM - 12.15PM TBD (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
+  - 11.15AM - 12.15PM "A Causal Perspective On Interpretability Methods" (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
   - 12.15PM Summary and Conclusions
   
 - 2PM - 5PM : Development Sprint on Interpretability issues

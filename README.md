@@ -1,5 +1,5 @@
 # Interpretability Workshop and Sprint
-The event will follow the agenda below (in Central Europe Timezone):
+The event will follow the agenda below (in Central Europe Timezone), note that the timeslots include presentation and discussion:
 
 **February 8th**:
 - 2PM - 5PM : Interpretability workshop (1st session)

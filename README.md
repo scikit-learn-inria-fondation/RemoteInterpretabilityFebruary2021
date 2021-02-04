@@ -8,15 +8,15 @@ The event will follow the agenda below (in Central Europe Timezone):
   - 3.15PM - 3.30PM Break
   - 3.30PM - 4.30PM "FACET: a new open-source library for global model explanations" (*Jan Ittner, BCG*)
   
-      FACET introduces a new algorithm to quantify dependencies and interactions between features in ML models.
-      It is closely integrated with scikit-learn and adds a new, global perspective to the observation-level explanations provided by the popular SHAP approach.
+      *FACET introduces a new algorithm to quantify dependencies and interactions between features in ML models.*
+      *It is closely integrated with scikit-learn and adds a new, global perspective to the observation-level explanations provided by the popular SHAP approach.*
   - 4.30PM - 5PM "eXplainable AI Interfaces : a user perspective" (*Clara Bove, AXA*)
 
-      Machine Learning has provided new business opportunities in the insurance industry, but its adoption is for now limited by the difficulty to explain the
-      rationale behind the prediction provided. Yet, limited work has been done on explanations for non-expert users (in AI, statistics, applied domain).
-      In our research, we focus on how we can build and present  understandable and useful explanations from various interpretability methods for non-expert users.
-      More recently, we explore how to enhance local feature importance explanations and propose design principles to contextualize these explanations with 
-      additional information about the Machine Learning system, the domain and external factors that may influence the prediction.
+      *Machine Learning has provided new business opportunities in the insurance industry, but its adoption is for now limited by the difficulty to explain the*
+      *rationale behind the prediction provided. Yet, limited work has been done on explanations for non-expert users (in AI, statistics, applied domain).*
+      *In our research, we focus on how we can build and present  understandable and useful explanations from various interpretability methods for non-expert users.*
+      *More recently, we explore how to enhance local feature importance explanations and propose design principles to contextualize these explanations with*
+      *additional information about the Machine Learning system, the domain and external factors that may influence the prediction.*
 
 **February 9th**:
 - 9.30AM - 12.30PM : Interpretability workshop (2nd session)

@@ -4,7 +4,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
 **February 8th**:
 - 2PM - 5PM : Interpretability workshop (1st session)
   - 2PM - 2.15PM ["Welcome and Introduction"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/IntroInterpretabilityworkshop.pdf) (*Gaël Varoquaux, Inria, scikit-learn Consortium*)
-  - 2.15PM - 3.15PM ["Model inspection in scikit-learn: current status, limitations, and ongoing work"](https://docs.google.com/presentation/d/10jJUDhstb_mBHQm5CyfleHbsg2NP8rnwlEx9lB6MnpM/edit?usp=sharing) (*Guillaume Lemaitre, Inria, scikit-learn Consortium*)
+  - 2.15PM - 3.15PM ["Model inspection in scikit-learn: current status, limitations, and ongoing work"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/InterpretabilityworkshopGL.pdf) (*Guillaume Lemaitre, Inria, scikit-learn Consortium*)
   - 3.15PM - 3.30PM Break
   - 3.30PM - 4.30PM "FACET: a new open-source library for global model explanations" (*Jan Ittner, BCG*)
   

@@ -28,7 +28,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
     - 2. *Current and future use cases for the supervision authority*
     - 3. *Proposed development and governance principles for ML in finance*
   - 11AM - 11.15AM Break
-  - 11.15AM - 12.15PM "A Causal Perspective On Interpretability Methods" (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
+  - 11.15AM - 12.15PM ["A Causal Perspective On Interpretability Methods"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/A_Causal_Perspective_on_Interpretability_Methods.pdf) (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
   - 12.15PM Summary and Conclusions
   
 - 2PM - 5PM : Development Sprint on Interpretability issues

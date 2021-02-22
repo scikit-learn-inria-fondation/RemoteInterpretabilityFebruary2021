@@ -21,7 +21,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
 **February 9th**:
 - 9.30AM - 12.30PM : Interpretability workshop (2nd session)
   - 9.30AM - 10.30AM "ML Interpretability vs. the 'Real Word'" (*Xavier Renard, Thibault Laugiel, AXA*)
-  - 10.30AM - 11AM "Explainability of ML in the financial sector" (*Laurent Dupont, ACPR - Banque de France*)
+  - 10.30AM - 11AM ["Explainability of ML in the financial sector"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/Explainabilityforscikit-learnworkshop.pdf) (*Laurent Dupont, ACPR - Banque de France*)
 
     *Outline:*
     - 1. *Use cases observed among financial actors*

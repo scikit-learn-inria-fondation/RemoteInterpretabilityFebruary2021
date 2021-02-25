@@ -31,6 +31,11 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
   - 11.15AM - 12.15PM ["A Causal Perspective On Interpretability Methods"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/A_Causal_Perspective_on_Interpretability_Methods.pdf) (*Léo Dreyfus-Schmidt, Samuel Ronsin, Dataiku*)
   - 12.15PM Summary and Conclusions
   
+## Sprint
+Resources to prepare the sprint are available at [this page](sprint.md).
+Addressable issues are listed [here](https://github.com/scikit-learn-inria-fondation/RemoteInterpretabilityFebruary2021/projects/1)
+
+**February 9th**
 - 2PM - 5PM : Development Sprint on Interpretability issues
 
 **February 10th**:

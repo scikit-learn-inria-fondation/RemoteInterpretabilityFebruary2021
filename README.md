@@ -10,7 +10,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
   
       *FACET introduces a new algorithm to quantify dependencies and interactions between features in ML models.*
       *It is closely integrated with scikit-learn and adds a new, global perspective to the observation-level explanations provided by the popular SHAP approach.*
-  - 4.30PM - 5PM "eXplainable AI Interfaces : a user perspective" (*Clara Bove, AXA*)
+  - 4.30PM - 5PM ["eXplainable AI Interfaces : a user perspective"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/210208_Scikitlearn_workshop_XAI.pdf) (*Clara Bove, AXA*)
 
       *Machine Learning has provided new business opportunities in the insurance industry, but its adoption is for now limited by the difficulty to explain the*
       *rationale behind the prediction provided. Yet, limited work has been done on explanations for non-expert users (in AI, statistics, applied domain).*
@@ -20,7 +20,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
 
 **February 9th**:
 - 9.30AM - 12.30PM : Interpretability workshop (2nd session)
-  - 9.30AM - 10.30AM "ML Interpretability vs. the 'Real Word'" (*Xavier Renard, Thibault Laugiel, AXA*)
+  - 9.30AM - 10.30AM ["ML Interpretability vs. the 'Real Word'"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/AXA-ScikitLearnWorkshop.pdf) (*Xavier Renard, Thibault Laugiel, AXA*)
   - 10.30AM - 11AM ["Explainability of ML in the financial sector"](https://scikit-learn.fondation-inria.fr/wp-content/uploads/sites/3/2021/02/Explainabilityforscikit-learnworkshop.pdf) (*Laurent Dupont, ACPR - Banque de France*)
 
     *Outline:*

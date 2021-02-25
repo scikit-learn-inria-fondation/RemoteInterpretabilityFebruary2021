@@ -33,7 +33,7 @@ The event will follow the agenda below (in Central Europe Timezone), note that t
   
 ## Sprint
 Resources to prepare the sprint are available at [this page](sprint.md).
-Addressable issues are listed [here](https://github.com/scikit-learn-inria-fondation/RemoteInterpretabilityFebruary2021/projects/1)
+Addressable issues are listed [here](https://github.com/scikit-learn-inria-fondation/RemoteInterpretabilityFebruary2021/projects/1).
 
 **February 9th**
 - 2PM - 5PM : Development Sprint on Interpretability issues
